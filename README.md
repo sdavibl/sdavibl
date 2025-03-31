@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **Java and C**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sdavibl?tab=repositories](https://github.com/sdavibl?tab=repositories)
+- 📚 All of my projects are available [here](https://github.com/sdavibl/Projects-Guide)
 
 - 💬 Ask me about **Neural Networks and Economics (specially, Monetary Policy)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/salomaodavi/](https://www.linkedin.com/in/salomaodavi/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/salomaodavi/)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +24,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+You can see my
