@@ -1,4 +1,8 @@
 ## Hi 👋, I'm Salomão Davi</h1>
+
+![Colorful Modern Office Working Desk Group Project Presentation](https://github.com/user-attachments/assets/4c40dba1-b24d-4b20-8e25-483ccb2f75f2)
+
+
 <h3 align="center">I'm an economics undergraduate with experience in Python, R and VBA, as well as data analysis, storytelling, machine learning and artificial intelligence. I'm passionate about programming, data science, artificial intelligence and economics (and soccer).</h3>
 
 - 🌱 I’m currently learning **Java and C**
