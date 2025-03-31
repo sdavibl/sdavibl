@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salomão Davi</h1>
+## Hi 👋, I'm Salomão Davi</h1>
 <h3 align="center">I'm an economics undergraduate with experience in Python, R and VBA, as well as data analysis, storytelling, machine learning and artificial intelligence. I'm passionate about programming, data science, artificial intelligence and economics (and soccer).</h3>
 
 - 🌱 I’m currently learning **Java and C**
