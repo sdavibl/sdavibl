@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and C**
 
-- 📚 All of my projects are available [here](https://github.com/sdavibl/Projects-Guide/blob/main/README.md)
+- 📚 All of my projects are available [here](https://github.com/sdavibl/Projects-Guide/)
 
 - 💬 Ask me about **Neural Networks and Economics (specially, Monetary Policy)**
 
