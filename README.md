@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Java and C**
 
-- 📚 All of my projects are available [here](https://github.com/sdavibl/Projects-Guide/)
-
-- 💬 Ask me about **Neural Networks and Economics (specially, Monetary Policy)**
+- 💬 Ask me about **Neural Networks, Artificial Intelligencem Data Science and Economics (specially, Monetary Policy)**
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/salomaodavi/)
 
+# 📚 Projects
 
+You can see all my projects [here](https://github.com/sdavibl/Projects-Guide/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
