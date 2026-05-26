@@ -1,6 +1,16 @@
-## Hi 👋, I'm Salomão Davi</h1>
+<h1 align="center">Hi 👋, I'm Salomão Davi</h1>
 
-<div align="center"><img width="480" height="469" alt="image" src="https://github.com/user-attachments/assets/47dd9c39-a7fe-4ce4-81e2-5187585d2337" /></div>
+<div align="center"><img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/00eedcf6-9012-4ddb-8d45-f071416a3ca6" />
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/salomaodavi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+  <a href="https://www.kaggle.com/sdavibl">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+</a>
+</p>
 
 <h3 align="center">I'm an Economics undergraduate with experience in Python, R and VBA, as well as data analysis, storytelling, machine learning and artificial intelligence. I'm passionate about programming, data science, artificial intelligence and economics (and soccer).</h3>
 
@@ -16,9 +26,8 @@ You can see all my projects [here](https://github.com/sdavibl/Projects-Guide/)
 
 ## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/salomaodavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salomaodavi" height="30" width="40" /></a>
-<a href="https://kaggle.com/sdavibl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sdavibl" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sdavibl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sdavibl" height="30" width="40" /></a>
+
+
 </p>
 
 ## Languages and Tools
