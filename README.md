@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Salomão Davi</h1>
 
-<img width="480" height="469" alt="image" src="https://github.com/user-attachments/assets/47dd9c39-a7fe-4ce4-81e2-5187585d2337" />
+<div align="center"><img width="480" height="469" alt="image" src="https://github.com/user-attachments/assets/47dd9c39-a7fe-4ce4-81e2-5187585d2337" /></div>
 
 <h3 align="center">I'm an Economics undergraduate with experience in Python, R and VBA, as well as data analysis, storytelling, machine learning and artificial intelligence. I'm passionate about programming, data science, artificial intelligence and economics (and soccer).</h3>
 
