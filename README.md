@@ -45,12 +45,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📚 Projects
-Here's the translation:
-
----
-Aqui está o modelo STAR aplicado a cada projeto, com linguagem mais natural e sem travessão:
-
----
 
 ### [Web Scraping on COPOM Minutes](https://github.com/sdavibl/Web-Scraping-nas-Atas-do-COPOM) 🔓
 > The Central Bank of Brazil's monetary policy direction shifted following a change in board leadership, and we needed a way to verify this statistically. I built a web scraper that collected all publicly available COPOM meeting minutes and stored them in a CSV file. The corpus was later reused in other projects within IBRE, and the results confirmed a statistically significant difference in language across the two periods.
